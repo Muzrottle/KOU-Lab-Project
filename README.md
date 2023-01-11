@@ -1,5 +1,8 @@
 # KOU-Lab-Project
-  
+<br>  
+
+This is a group school project. The shown pages of the app's frontend is made mostly by me. Here is the github link of one of my teammates who worked at the backend of the project: https://github.com/mstf-ylcn/kou-project-1.
+
 <br><br>
 <p float="left">
 
