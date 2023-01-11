@@ -1,43 +1,10 @@
-# kou-project-1
- 
-npm install cordova-plugin-preview-any-file
-
-npm install @ionic-native/preview-any-file
-
-
-npm install integrator-cordova-plugin-downloader
-
-npm install @ionic-native/downloader
-
-
-npm i firebase
-
-npm i @angular/fire
-
-npm i @ionic-native/core
-
-npm i cordova-plugin-androidx
-
-npm i cordova-plugin-androidx-adapter
-
-
-npm install @capacitor/camera
-
-npm install @capacitor/filesystem
- 
- 
+# KOU-Lab-Project
   
 <br><br>
  
 <p float="left">
 
-  <img src="https://user-images.githubusercontent.com/83976212/153602347-69ddc8af-2fa3-410d-b953-2c95c5faf72e.gif"  width="230" />
- 
-  <img src="https://user-images.githubusercontent.com/83976212/153602434-62e209c8-7dd3-4af8-b927-6de2c3a5c91b.gif"  width="230" />
-
   <img src="https://user-images.githubusercontent.com/83976212/153602441-9a54b7d0-c51f-4dc1-8738-1236e8bc3a70.gif"  width="230" />
- 
-  <img src="https://user-images.githubusercontent.com/83976212/153604837-ca790226-cb15-4720-9234-0908e10d79a2.gif"  width="230" />
   
 </p>
  
